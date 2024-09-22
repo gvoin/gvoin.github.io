@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gvoin.github.io/gmM/sitemap.gmM.gz
